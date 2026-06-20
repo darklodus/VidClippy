@@ -1,0 +1,2 @@
+# VidClippy requires FFmpeg installed on your system and available in PATH.
+# No Python package dependencies required.
